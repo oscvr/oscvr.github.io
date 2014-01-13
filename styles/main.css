@@ -1,5 +1,5 @@
 body {
-	background: #B27A12;
+	background: linear-gradient(to bottom, #9a9a9a 0%, #787878 100%) center center / cover fixed;
 	color: #2e2e2e;
 	margin: 0;
 	padding: 80px;
