@@ -1,2 +1,5 @@
+# ignoring files
 
-oscvr.github.io.esproj/user.oscvr.espressostorage
+.DS_Store
+*.esproj
+*.esproj/
