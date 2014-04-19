@@ -1,16 +1,6 @@
 body {
 	color: #2e2e2e;
 	margin: 0;
-<<<<<<< HEAD
-	padding: 80px;
-	font: 400% "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-weight: 200;
-	line-height: 115%;
-}
-
-h1 {
-	font-size: 300%;
-=======
 	font-family: Avenir, Arial, sans-serif;
 	font-size: 14pt;
 	padding: 3%;
@@ -20,7 +10,6 @@ h1 {
 h1 {
 	font-size: 24pt;
 	margin-bottom: -10px;
->>>>>>> Updated-Splash
 }
 
 a {
