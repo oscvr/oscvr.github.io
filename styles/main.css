@@ -2,13 +2,13 @@ body {
 	color: #2e2e2e;
 	margin: 0;
 	font-family: Avenir, Arial, sans-serif;
-	font-size: 14pt;
+	font-size: 2.5vw;
 	padding: 3%;
 	background: url(../reptile.jpg);
 }
 
 h1 {
-	font-size: 24pt;
+	font-size: 5vw;
 	margin-bottom: -10px;
 }
 
@@ -16,7 +16,7 @@ a {
 	color: #2e2e2e;
 	text-decoration: none;
 	border-bottom: 3px solid #D8D8D8;
-	line-height: 18px;
+	line-height: 80%;
 	margin:-10px 0;
 	display: inline-block;
 }
@@ -53,5 +53,13 @@ a {
 		width: 30%;
 		background: rgba(255, 255, 255, 1);
 		box-shadow: 0px 0px 20px rgba(0, 0, 0, .4);
+	}
+
+	h1 {
+		font-size: 24pt;
+	}
+
+	p {
+		font-size: 14pt;
 	}
 }
